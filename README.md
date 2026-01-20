@@ -67,7 +67,7 @@
 
 **Threat Hunting** | EDR/SIEM telemetry, lateral movement, APT tradecraft
 
-**SIEM Engineering** | LogScale, Elastic, Splunk, Sentinel, Chronicle
+**SIEM Engineering** | NG-Siem, Elastic, Splunk, Sentinel, Chronicle
 
 **Security Analytics** | ML/Data Science applied to security operations
 
