@@ -46,11 +46,11 @@
 
 ### Focus Areas
 
-**Detection Engineering** | ATT&CK-aligned rules, correlation patterns, FP reduction
+**Detection Engineering** | ATT&CK-aligned rules, correlation patterns
 
 **Threat Hunting** | EDR/SIEM telemetry, lateral movement, APT tradecraft
 
-**SIEM Engineering** | LogScale, Splunk, Elastic, Sentinel, Chronicle
+**SIEM Engineering** | LogScale, Elastic, Splunk, Sentinel, Chronicle
 
 **Security Analytics** | ML/Data Science applied to security operations
 
@@ -60,7 +60,7 @@
 
 **Education**
 
-Data Science - *Unicamp (2025–2026)*
+Data Science - *Unicamp*
 
 Postgraduate in Offensive Cybersecurity - *Acadi-TI (2024–2026)*
 
@@ -88,7 +88,6 @@ CySA+ | CCSE (CrowdStrike SIEM Engineer) | CEH
 
 ### Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nlx64&theme=github-dark&hide_border=true&bg_color=0d1117&color=0A66C2&line=0A66C2&point=58a6ff&area=true&area_color=0A66C2"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nlx64&theme=github_dark"/>
 
