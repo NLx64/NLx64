@@ -86,13 +86,9 @@ CySA+ | CCSE (CrowdStrike SIEM Engineer) | CEH
 
 <img src="https://github-profile-trophy.vercel.app/?username=nlx64&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
-### Contribution Skyline
+### Activity
 
-[![GitHub Skyline](https://img.shields.io/badge/View%203D%20Skyline-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/nlx64/2025)
-
-<a href="https://skyline.github.com/nlx64/2025">
-  <img src="https://github.com/nlx64/nlx64/blob/main/assets/skyline-preview.gif?raw=true" alt="GitHub Skyline 3D" width="600" onerror="this.style.display='none'"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nlx64&theme=github-dark&hide_border=true&bg_color=0d1117&color=0A66C2&line=0A66C2&point=58a6ff&area=true&area_color=0A66C2"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nlx64&theme=github_dark"/>
 
