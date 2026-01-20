@@ -60,11 +60,10 @@
 
 **Education**
 
-Professional Specialization in Data Science — *Unicamp (2025–2026)*
+Data Science - *Unicamp (2025–2026)*
 
-Postgraduate in Offensive Cybersecurity — *Acadi-TI (2024–2026)*
+Postgraduate in Offensive Cybersecurity - *Acadi-TI (2024–2026)*
 
-Associate in IT — *Estácio University (2020–2023)*
 
 **Certifications**
 
@@ -109,6 +108,6 @@ CySA+ | CCSE (CrowdStrike SIEM Engineer) | CEH
 [![Website](https://img.shields.io/badge/Website-nlx64.github.io-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://nlx64.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
-*Detection-first mindset | AI-driven defense | Research with intent*
+*AI-driven defense*
 
 </div>
