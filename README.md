@@ -2,11 +2,10 @@
  NLx64 • GitHub Profile README
  Focus: Blue Team • Detection Engineering • Threat Hunting • AI/Data Science
 ======================== -->
-
-<h1 align="center">Nathan Gomes Ferreira</h1>
+<h1 align="center">Nathan Ferreira</h1>
 
 <p align="center">
-  <b>Security Operations Analyst • Detection Engineering • Threat Hunting</b><br/>
+  <b>Security Operations Analyst • Detection Engineering</b><br/>
   Exploring the convergence of <b>Cybersecurity × AI × Data Science</b>.<br/>
   Building high-fidelity detections, hunting tradecraft, and turning telemetry into outcomes.
 </p>
@@ -34,15 +33,15 @@
 
 ---
 
-## ⚡ Current Focus
+## Current Focus
 
-✅ Building detection content that is:
+Building detection content that is:
 - **Behavior-based** (not IOC-only)
 - **Explainable** (audit-friendly)
 - **Operational** (SOC-ready)
 - **Automatable** (triage + enrichment + reporting)
 
-✅ Studying:
+Studying:
 - **Machine Learning / MLOps / Data Architecture** applied to security analytics
 - Detection pipelines that scale (performance, reliability, quality)
 
@@ -77,7 +76,7 @@
 ## 🎓 Education & Certifications
 
 **Education**
-- 🎓 *Data Science* - Unicamp (2025–2026)
+- 🎓 *Data Science* - Unicamp 
 - 🎓 *Postgraduate in Offensive Cybersecurity* - Acadi-TI (2024–2026)
 
 **Certifications**
