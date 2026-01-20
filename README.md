@@ -1,7 +1,5 @@
 <div align="center">
 
-# Nathan Gomes Ferreira
-
 **Security Operations Analyst | Detection Engineering | Threat Hunting**
 
 *Cybersecurity | AI | Data Science*
