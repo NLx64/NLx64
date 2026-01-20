@@ -77,9 +77,8 @@
 ## 🎓 Education & Certifications
 
 **Education**
-- 🎓 *Professional Specialization in Data Science* — Unicamp (2025–2026)
-- 🎓 *Postgraduate in Offensive Cybersecurity* — Acadi-TI (2024–2026)
-- 🎓 *Associate in IT* — Estácio University (2020–2023)
+- 🎓 *Data Science* - Unicamp (2025–2026)
+- 🎓 *Postgraduate in Offensive Cybersecurity* - Acadi-TI (2024–2026)
 
 **Certifications**
 - CompTIA Security+ (SY0-701)
@@ -90,7 +89,9 @@
 - Cisco Network Essentials
 
 **In progress**
-- CySA+ • CCSE (CrowdStrike SIEM Engineer) • CEH
+- CySA+ 
+- CCSE (CrowdStrike SIEM Engineer) 
+- CEH
 
 ---
 
