@@ -73,31 +73,13 @@
 
 ---
 
-### Education & Certifications
-
-**Education**
-
-Data Science - *Unicamp*
-
-Postgraduate in Offensive Cybersecurity - *Acadi-TI (2024–2026)*
-
-**Certifications**
-
-CompTIA Security+ (SY0-701) | CrowdStrike Falcon Responder (CCFR) | CNSP | C3SA | CRTA | Cisco Network Essentials
-
-**In Progress**
-
-CySA+ | CCSE (CrowdStrike SIEM Engineer) | CEH
-
----
-
 <div align="center">
 
 ### GitHub Analytics
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nlx64&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9"/>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=nlx64&theme=dark(hide_border=true&background=0d1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=nlx64&theme=dark&hide_border=true&background=0d1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2"/>
 
 </div>
 
@@ -115,4 +97,4 @@ CySA+ | CCSE (CrowdStrike SIEM Engineer) | CEH
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=80&s/ction=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=80&section=footer"/>
