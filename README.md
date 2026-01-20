@@ -2,8 +2,9 @@
 
 # Nathan Gomes Ferreira
 
-**Security Operations Analyst • Detection Engineering • Threat Hunting**
-*Cybersecurity × AI × Data Science*
+**Security Operations Analyst | Detection Engineering | Threat Hunting**
+
+*Cybersecurity | AI | Data Science*
 
 [![Site](https://img.shields.io/badge/Site-nlx64.github.io-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://nlx64.github.io)
 [![Blog](https://img.shields.io/badge/Blog-Research-FF6B6B?style=for-the-badge&logo=hashnode&logoColor=white)](https://nlx64.github.io/blog/)
@@ -37,7 +38,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Detection+Engineering+%E2%80%A2+Threat+Hunting;MITRE+ATT%26CK+Aligned+Detections;Behavior-Based+%E2%80%A2+SOC+Ready;AI+%C3%97+Data+Science+%C3%97+Cybersecurity)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Detection+Engineering+%7C+Threat+Hunting;MITRE+ATT%26CK+Aligned+Detections;Behavior-Based+%7C+SOC+Ready;AI+%7C+Data+Science+%7C+Cybersecurity)
 
 </div>
 
@@ -45,26 +46,33 @@
 
 ### Focus Areas
 
-**Detection Engineering** • ATT&CK-aligned rules, correlation patterns, FP reduction
-**Threat Hunting** • EDR/SIEM telemetry, lateral movement, APT tradecraft
-**SIEM Engineering** • LogScale, Splunk, Elastic, Sentinel, Chronicle
-**Security Analytics** • ML/Data Science applied to security operations
+**Detection Engineering** | ATT&CK-aligned rules, correlation patterns, FP reduction
+
+**Threat Hunting** | EDR/SIEM telemetry, lateral movement, APT tradecraft
+
+**SIEM Engineering** | LogScale, Splunk, Elastic, Sentinel, Chronicle
+
+**Security Analytics** | ML/Data Science applied to security operations
 
 ---
 
 ### Education & Certifications
 
 **Education**
+
 Professional Specialization in Data Science — *Unicamp (2025–2026)*
+
 Postgraduate in Offensive Cybersecurity — *Acadi-TI (2024–2026)*
+
 Associate in IT — *Estácio University (2020–2023)*
 
 **Certifications**
-CompTIA Security+ (SY0-701) • CrowdStrike Falcon Responder (CCFR)
-CNSP • C3SA • CRTA • Cisco Network Essentials
+
+CompTIA Security+ (SY0-701) | CrowdStrike Falcon Responder (CCFR) | CNSP | C3SA | CRTA | Cisco Network Essentials
 
 **In Progress**
-CySA+ • CCSE (CrowdStrike SIEM Engineer) • CEH
+
+CySA+ | CCSE (CrowdStrike SIEM Engineer) | CEH
 
 ---
 
@@ -79,9 +87,15 @@ CySA+ • CCSE (CrowdStrike SIEM Engineer) • CEH
 
 <img src="https://github-profile-trophy.vercel.app/?username=nlx64&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
-### Activity Graph
+### Contribution Skyline
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nlx64&theme=github-compact&hide_border=true&bg_color=0d1117&color=0A66C2&line=0A66C2&point=58a6ff"/>
+[![GitHub Skyline](https://img.shields.io/badge/View%203D%20Skyline-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/nlx64/2025)
+
+<a href="https://skyline.github.com/nlx64/2025">
+  <img src="https://github.com/nlx64/nlx64/blob/main/assets/skyline-preview.gif?raw=true" alt="GitHub Skyline 3D" width="600" onerror="this.style.display='none'"/>
+</a>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nlx64&theme=github_dark"/>
 
 </div>
 
@@ -95,6 +109,6 @@ CySA+ • CCSE (CrowdStrike SIEM Engineer) • CEH
 [![Website](https://img.shields.io/badge/Website-nlx64.github.io-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://nlx64.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
-*Detection-first mindset • AI-driven defense • Research with intent*
+*Detection-first mindset | AI-driven defense | Research with intent*
 
 </div>
