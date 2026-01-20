@@ -31,7 +31,7 @@
 
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F26?style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Elastic](https://img.shelds.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
 
