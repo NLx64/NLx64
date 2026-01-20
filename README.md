@@ -31,9 +31,9 @@
 
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F26?style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge)
-![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-00A4EF?style=for-the-badge)
+![Elastic](https://img.shelds.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### AI & Data Science
 
@@ -97,7 +97,7 @@ CySA+ | CCSE (CrowdStrike SIEM Engineer) | CEH
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nlx64&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9"/>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=nlx64&theme=dark&hide_border=true&background=0d1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=nlx64&theme=dark(hide_border=true&background=0d1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2"/>
 
 </div>
 
@@ -115,4 +115,4 @@ CySA+ | CCSE (CrowdStrike SIEM Engineer) | CEH
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=80&s/ction=footer"/>
