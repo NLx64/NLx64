@@ -27,7 +27,7 @@
 
 ### Security Platforms
 
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F26?style=for-the-badge)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F26?style=for-the-badge&logo=crowdstrike&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -87,7 +87,7 @@
 
 ### Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-nlx64-181717?style=for-the-badge&logo=github)](https://github.com/nlx64)
+[![GitHub](https://img.shields.io/badge/GitHub-nlx64-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nlx64)
 [![Website](https://img.shields.io/badge/Website-nlx64.github.io-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://nlx64.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathan%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-ferreira-067035193/)
 
